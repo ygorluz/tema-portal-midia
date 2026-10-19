@@ -1,0 +1,32 @@
+{
+  "name": "Meu Blog",
+  "description": "Conteúdo direto sobre o que importa. Sem ornamento, sem ruído.",
+  "url": "https://meublog.com.br",
+  "author": "Equipe do Blog",
+  "language": "pt-BR",
+  "logo": "/uploads/1780422114054-logo.svg",
+  "theme": {
+    "primary": "#4CAF50",
+    "dark": "#1B3A2A",
+    "fontDisplay": "Switzer",
+    "fontBody": "Switzer",
+    "accent": "#81C784"
+  },
+  "social": {
+    "instagram": "",
+    "twitter": "",
+    "facebook": "",
+    "youtube": ""
+  },
+  "contact": {
+    "email": "contato@meublog.com.br",
+    "phone": "",
+    "address": "",
+    "name": ""
+  },
+  "legal": {
+    "terms_last_updated": "",
+    "privacy_last_updated": ""
+  },
+  "menuHoverEnabled": true
+}
