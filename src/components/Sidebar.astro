@@ -41,7 +41,7 @@ const categoryCounts = allCategories.map(cat => ({
   <div class="widget rounded">
     <div class="widget-about text-center" style="background-image: url('/images/map-bg.png'); background-size: cover; background-position: center; padding: 30px; border-radius: 5px;">
       {siteConfig.logo ? (
-        <img src={siteConfig.logo} alt={siteConfig.name} class="mb-4" />
+        <img src={siteConfig.logo} alt={siteConfig.name} class="mb-4 mx-auto" style="max-height: 52px; width: auto; max-width: 180px; object-fit: contain; display: block;" />
       ) : (
         <h4 class="mb-4" style="font-family: var(--walker-font-heading); color: var(--walker-dark);">{siteConfig.name}</h4>
       )}
